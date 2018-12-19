@@ -19,7 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   We are the Dark Matter Dragons, FTC Team 8806!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://darkmatterdragons.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: FTC_Team_8806
+
+instagram_username: ftc8806
 github_username:  ftc8806
 
 # Build settings
