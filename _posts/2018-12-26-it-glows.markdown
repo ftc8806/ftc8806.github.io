@@ -1,0 +1,10 @@
+---
+layout: 	post
+title: 		"It glows!"
+date: 		2018-12-26
+categories: updates
+---
+
+Our robot, it glows! During today's meeting Aiden put in our purple LED lights and now our robot has a cool aura around it!
+
+![Bagudesu with some cool purple lights installed](/assets/cool-heckin-robot-being-cool.jpg)
