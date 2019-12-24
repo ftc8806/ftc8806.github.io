@@ -4,7 +4,7 @@ title: "Meet the team!"
 permalink: /team/
 ---
 
-# Josephh Jang
+# Joseph Jang
 > Sophomore at Mynderse Academy
 * First year in robotics
 * Builder
@@ -16,6 +16,12 @@ permalink: /team/
 * Head programmer
 * Enjoys programming and working with other formats of technology
 * Creator of the website
+
+# Aidan MaKinster
+> Homeschooled Junior
+* 4th year in FTC
+* Builder
+* Participates in community choir and charity dinners for the Rotary Club and Police Station
 
 # Nick Corsner
 > Junior at Mynderse Academy
